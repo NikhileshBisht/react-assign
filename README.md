@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+install tailwind , react-dom and npm i --save @fortawesome/fontawesome-svg-core 
+npm install --save @fortawesome/free-solid-svg-icons 
+npm install --save @fortawesome/react-fontawesome 
+ before running this code .
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
